@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "d7634ee4052d1f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c2dc3ccbfad701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72c270ba9b6bbf8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dbd1da87c157130",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0aa0a6cc358753e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edcd1e3d95164b28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e0a55cde99ad601",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d7f5e11ee1ad80a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6a764a0229d3f33",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5e24c7d03aac72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1284f0eeb2554a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0850ef5b604b48cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcf71c42073f2e93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "07be325260fda4f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "72c270ba9b6bbf8c",
+  "lastOpenFiles": [
+    "History Skills - Comparison.md",
+    "History Skills - Chapter 7.2 SQ.md",
+    "Literature Notes for Rich Man Country.md",
+    "Home Page.md",
+    "English Notes for Letter Writing.md",
+    "Home Page~.md",
+    "Other Files/Todo today.md",
+    "Other Files",
+    "export/English Notes for Letter Writing/plugin/chalkboard/README.md",
+    "export/English Notes for Letter Writing/plugin/chalkboard/_style.css",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/blackboard.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-black.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-blue.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-green.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-orange.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-purple.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-red.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/boardmarker-yellow.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/chalk-blue.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img/chalk-green.png",
+    "export/English Notes for Letter Writing/plugin/chalkboard/style.css",
+    "export/English Notes for Letter Writing/plugin/chalkboard/plugin.js",
+    "export/English Notes for Letter Writing/plugin/chalkboard/plugin (copy).js",
+    "export/English Notes for Letter Writing/plugin/chalkboard/img",
+    "export/English Notes for Letter Writing/plugin/chalkboard",
+    "export/English Notes for Letter Writing/plugin/chart/README.md",
+    "export/English Notes for Letter Writing/plugin/chart/chart.min.js",
+    "export/English Notes for Letter Writing/plugin/chart/plugin.js",
+    "export/English Notes for Letter Writing/plugin/chart",
+    "export/English Notes for Letter Writing/plugin/customcontrols/README.md",
+    "export/English Notes for Letter Writing/plugin/menu/CONTRIBUTING.md",
+    "export/English Notes for Letter Writing/plugin/menu/README.md",
+    "English Notes for Letter Writing~.md"
+  ]
+}
