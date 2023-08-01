@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "5743466c312145f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "506790040f872ec4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f654bd2e7646f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes for Rich Man Country.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bbe5a47ebd7b7a0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d4641ea50482d37e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5449b5627570d48a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3242ee6f967b6dbd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b58f7dfdf0365588",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3ce9fc4d762b1bce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f399644001bb4cc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Literature Notes for Rich Man Country.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9ea1f3745ea030c1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Literature Notes for Rich Man Country.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "71e560d339ed65b9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Literature Notes for Rich Man Country.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3f654bd2e7646f7",
+  "lastOpenFiles": [
+    "/Literature Notes for Rich Man Country.md",
+    "Geography: Sustainable Transport.md",
+    "Literature Notes for Rich Man Country.md",
+    "History Skills - Comparison.md",
+    "Home Page.md",
+    "History Skills - Chapter 7.2 SQ.md",
+    "English Notes for Letter Writing.md",
+    "Other Files/Todo today.md",
+    "Other Files"
+  ]
+}
