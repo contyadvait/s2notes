@@ -5,16 +5,16 @@
   },
   "data": [
     {
-      "char": "→",
-      "name": "rightwards arrow",
-      "useCount": 7,
-      "lastUsed": 1690804702064
-    },
-    {
       "char": "•",
       "name": "bullet",
-      "useCount": 6,
-      "lastUsed": 1690804808635
+      "useCount": 26,
+      "lastUsed": 1690889243182
+    },
+    {
+      "char": "→",
+      "name": "rightwards arrow",
+      "useCount": 16,
+      "lastUsed": 1690889255209
     },
     {
       "char": "⋅",

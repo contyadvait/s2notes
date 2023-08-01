@@ -11,7 +11,27 @@
             "id": "72c270ba9b6bbf8c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes for Rich Man Country.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cac920ec5b6fa0cc",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "88fb775f37a19523",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
               "state": {}
             }
           }
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature Notes for Rich Man Country.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature Notes for Rich Man Country.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literature Notes for Rich Man Country.md"
+              }
             }
           }
         ],
@@ -143,6 +167,7 @@
   },
   "active": "72c270ba9b6bbf8c",
   "lastOpenFiles": [
+    "Geography: Sustainable Transport.md",
     "History Skills - Comparison.md",
     "History Skills - Chapter 7.2 SQ.md",
     "Literature Notes for Rich Man Country.md",
