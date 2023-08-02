@@ -4,5 +4,6 @@
   "interfaceFontFamily": "Inter",
   "translucency": true,
   "textFontFamily": "SF Pro Rounded,KaiTi",
-  "theme": "moonstone"
+  "theme": "obsidian",
+  "baseFontSize": 25
 }

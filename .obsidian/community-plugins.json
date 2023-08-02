@@ -6,5 +6,7 @@
   "highlightr-plugin",
   "table-extended",
   "table-editor-obsidian",
-  "unicode-search"
+  "unicode-search",
+  "marp-slides",
+  "obsidian-chartsview-plugin"
 ]

@@ -13,22 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes for Rich Man Country.md",
-                "mode": "source",
-                "source": true
+                "file": "Chinese 话题4.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
           {
-            "id": "cac920ec5b6fa0cc",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "88fb775f37a19523",
+            "id": "863db62f8bab7c97",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -85,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a6a764a0229d3f33",
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes for Rich Man Country.md",
+                "file": "Chinese 话题4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes for Rich Man Country.md",
+                "file": "Chinese 话题4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes for Rich Man Country.md"
+                "file": "Chinese 话题4.md"
               }
             }
           }
@@ -162,16 +155,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
   "active": "72c270ba9b6bbf8c",
   "lastOpenFiles": [
-    "Geography: Sustainable Transport.md",
-    "History Skills - Comparison.md",
-    "History Skills - Chapter 7.2 SQ.md",
-    "Literature Notes for Rich Man Country.md",
     "Home Page.md",
+    "Chinese 话题4.md",
+    "Geography: Sustainable Transport.md",
+    "History Skills - Chapter 7.2 SQ.md",
+    "Geography: Sustainable Transport.pdf",
+    "Literature Notes for Rich Man Country.md",
+    "History Skills - Comparison.md",
     "English Notes for Letter Writing.md",
     "Home Page~.md",
     "Other Files/Todo today.md",
@@ -196,7 +192,6 @@
     "export/English Notes for Letter Writing/plugin/chart/README.md",
     "export/English Notes for Letter Writing/plugin/chart/chart.min.js",
     "export/English Notes for Letter Writing/plugin/chart/plugin.js",
-    "export/English Notes for Letter Writing/plugin/chart",
     "export/English Notes for Letter Writing/plugin/customcontrols/README.md",
     "export/English Notes for Letter Writing/plugin/menu/CONTRIBUTING.md",
     "export/English Notes for Letter Writing/plugin/menu/README.md",

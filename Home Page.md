@@ -7,7 +7,7 @@
 | 3.  | [[Maths notes for GA3]]                                 | GA3        | Notes for Direct and Inverse Proportion, Congruence and similarity, and Pythagoras theorm | Maths      |
 | 4.  | [[Science notes for Chapter 15: Transport System]]      | GA3        | Covers how plants carry oxygen, the human transport system, diffusion and osmosis         | Science    |
 | 5.  | [[Science notes for Chapter 9: Forces]]                 | GA3        | Covers basic formulas and free-body diagrams                                              | Science    |
-| 6.  | [[Chinese: 话题4]]                                      | GA3        | 话题（4）《青少年交友》用在 GA3 里面                                                      | Chinese    |
+| 6.  | [[Chinese 话题4]]                                      | GA3        | 话题（4）《青少年交友》用在 GA3 里面                                                      | Chinese    |
 | 7.  | [[Chinese: 单元（4）]]                                  | GA3        | 单元（4）的词语和理解答案                                                                 | Chinese    |
 | 8.  | [[Geography: Sustainable Transport]]                    | GA3        | All kinds of Sustainable transport                                                        | Geography  |
 | 9.  | [[History Skills - Comparison]]                         | GA3        | Comparison answering technique                                                            | History    |
