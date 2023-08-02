@@ -14,10 +14,53 @@
               "type": "markdown",
               "state": {
                 "file": "Literature Notes for Rich Man Country.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
-            }
+            },
+            "group": "411798ada6d2d98e"
+          }
+        ]
+      },
+      {
+        "id": "aa99951b50b240b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9605db38a01fa66d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Literature Notes for Rich Man Country.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.086968288075723,
+                  "close": false
+                }
+              }
+            },
+            "group": "411798ada6d2d98e"
           }
         ]
       }
@@ -134,11 +177,12 @@
   },
   "active": "c3f654bd2e7646f7",
   "lastOpenFiles": [
+    "2023-08-01.md",
+    "Literature Notes for Rich Man Country.md",
+    "Home Page.md",
     "/Literature Notes for Rich Man Country.md",
     "Geography: Sustainable Transport.md",
-    "Literature Notes for Rich Man Country.md",
     "History Skills - Comparison.md",
-    "Home Page.md",
     "History Skills - Chapter 7.2 SQ.md",
     "English Notes for Letter Writing.md",
     "Other Files/Todo today.md",
