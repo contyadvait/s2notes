@@ -16,13 +16,13 @@
 
 ### Integrated Transport
 
-|             |                                                                                                                                                      |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| State       | Another way to sustainably manage transport is by having integrated transport.                                                                       |
-| Definition  | This refers to having a number of transport types being located together                                                                             |
-| Explanation | When there is integrated transport transport, sustainably can be achieved because people can easily access the transport and move across the contry. |
-| Example     | For example, there is both a bus interchange, taxi stand and MRT station at Bedok Interchange.                                                       |
-| Link        | Hence, one way to sustainable manage transport is by having laws and policies on transport.                                                          |
+|             |                                                                                                                                                   |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| State       | Another way to sustainably manage transport is by having integrated transport.                                                                    |
+| Definition  | This refers to having a number of transport types being located together                                                                          |
+| Explanation | When there is integrated transport, transport sustainably can be achieved because people can easily access transport and move across the country. |
+| Example     | For example, there is both a bus interchange, taxi stand and MRT station at Bedok Interchange.                                                    |
+| Link        | Hence, one way to sustainably manage transport is by having laws and policies on transport.                                                       |
 
 ---
 
